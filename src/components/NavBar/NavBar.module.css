@@ -1,0 +1,17 @@
+.nav{
+    grid-area: n;
+    background-color: hotpink;
+    margin-left: 20px;
+    box-shadow: 10px 0px 10px 10px gainsboro;
+
+}
+.item{
+    margin: 30px;
+    font-size: 25px;
+    font-style: normal;
+    color: bisque;
+}
+.item a{
+    text-decoration: none;
+    color: bisque;
+}

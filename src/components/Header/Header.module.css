@@ -1,0 +1,14 @@
+
+.header{
+    grid-area: h;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+.header img{
+
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+

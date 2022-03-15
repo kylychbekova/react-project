@@ -1,0 +1,17 @@
+#root{
+    text-align: justify-all;
+}
+.app-wrapper{
+    display: grid;
+    grid-template-areas:
+            "h h"
+            "n s";
+    grid-template-rows: 100px 1fr;
+    grid-template-columns: 400px 10fr;
+    grid-gap: 20px;
+}
+
+
+
+
+
